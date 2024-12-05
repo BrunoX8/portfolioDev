@@ -42,5 +42,10 @@ body {
 
 .container {
     max-width: 1800px;
+    padding-inline: 16px;
     margin-inline: auto;
+}
+
+.container img {
+    width: 100%;
 }
