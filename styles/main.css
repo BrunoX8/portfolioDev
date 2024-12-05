@@ -1,0 +1,28 @@
+.cabecalho {
+    text-align: center;
+    margin-top: 72px;
+    margin-bottom: 56px;
+}
+
+.cabecalho h2 {
+    margin-top: 8px;
+}
+
+.card {
+    background-color: var(--gray-300);
+    border-radius: 10px;
+    padding: 16px;
+}
+
+.card img {
+    border-radius: 8px;
+}
+
+.card h3 {
+    margin-top: 16px;
+}
+
+.card p {
+    margin-top: 8px;
+    max-width: 260px;
+}

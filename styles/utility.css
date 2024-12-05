@@ -1,3 +1,19 @@
+.grid {
+    display: grid;
+}
+
+.grid-flow-col {
+    grid-auto-flow: column;
+}
+
+.grid-3cols {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.gap-24 {
+    gap: 24px;
+}
+
 .subtitle {
     font: var(--subtitle);
     color: var(--gray-500);

@@ -36,7 +36,6 @@
     justify-content: center;
     gap: 16px;
     margin-top: 80px;
-    margin-bottom: 94px;
 }
 
 .tech-item{
@@ -46,4 +45,9 @@
     background-color: var(--gray-300);
     padding: 8px 16px;
     border-radius: 30px;
+}
+
+.scrollDown {
+    margin-top: 94px;
+    margin-bottom: 48px;
 }
