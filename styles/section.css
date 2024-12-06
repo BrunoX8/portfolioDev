@@ -1,0 +1,44 @@
+section {
+    background-color: var(--gray-100);
+    padding: 20px;
+}
+
+.services-title {
+    margin-top: 20px;
+    text-align: center;
+}
+.services {
+    display: flex;
+    justify-content: center;
+    margin-top: 56px;
+}
+
+i {
+    font-size: 32px;
+}
+
+.service-item {
+    border: 2px solid var(--gray-200);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.service-item p{
+    margin-top: 20px;
+}
+
+.service-item h3{
+    margin-top: 16px;
+}
+
+.ph-devices {
+    color: var(--purple);
+}
+
+.ph-hard-drives {
+    color: var(--yellow);
+}
+
+.ph-infinity {
+    color: var(--green);
+}
