@@ -47,3 +47,7 @@
     font: var(--text-sm);
     color: var(--gray-400);
 }
+
+.purple {
+    color: var(--purple);
+}

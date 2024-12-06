@@ -29,3 +29,7 @@ main {
 .card p {
     margin-top: 8px;
 }
+
+.card:hover {
+    border: 2px solid var(--gray-400);
+}
